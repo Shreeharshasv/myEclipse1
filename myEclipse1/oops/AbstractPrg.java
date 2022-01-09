@@ -1,7 +1,4 @@
-package CgDemoPrograms;
-
-import oops.Bank;
-
+package oops;
 abstract class Bank1
 {
 	abstract float getRateOfInterest();
@@ -12,13 +9,14 @@ abstract class Bank1
 	}
 	
 }
-class SBI1 extends Bank
+class SBI1 extends Bank1
 {
 	@Override
 	float getRateOfInterest() {
+		
+	
 		return 7.0f;
 	}
-	
 }
 class HDFC1 extends Bank1
 {

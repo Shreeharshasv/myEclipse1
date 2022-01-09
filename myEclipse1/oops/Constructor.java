@@ -1,4 +1,4 @@
-package CgDemoPrograms;
+package oops;
 
 public class Constructor {
 	int id;

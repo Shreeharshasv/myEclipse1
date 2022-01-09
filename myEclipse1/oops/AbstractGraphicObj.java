@@ -1,4 +1,4 @@
-package CgDemoPrograms;
+package oops;
 
 
 	abstract class GraphicObject

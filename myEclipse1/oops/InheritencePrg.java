@@ -1,4 +1,4 @@
-package CgDemoPrograms;
+package oops;
 
 class Bike {
 	int gear;

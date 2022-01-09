@@ -1,4 +1,4 @@
-package CgDemoPrograms;
+package oops;
 
 	interface i1
 	{
